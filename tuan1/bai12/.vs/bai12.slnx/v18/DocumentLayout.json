@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\C#\\tuan1\\bai12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E2B6465-1D5E-41D1-9E35-AEBB23D669EC}|bai12\\bai12.csproj|d:\\learning\\c#\\tuan1\\bai12\\bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2B6465-1D5E-41D1-9E35-AEBB23D669EC}|bai12\\bai12.csproj|solutionrelative:bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7286BF22-70E4-FF54-3EA6-8A76E0CF4A46}|bai12\\bai12.csproj|d:\\learning\\c#\\tuan1\\bai12\\bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286BF22-70E4-FF54-3EA6-8A76E0CF4A46}|bai12\\bai12.csproj|solutionrelative:bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "bai12\\Program.cs",
               "ToolTip": "D:\\Learning\\C#\\tuan1\\bai12\\bai12\\Program.cs",
               "RelativeToolTip": "bai12\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T03:06:00.501Z",
               "EditorCaption": ""
