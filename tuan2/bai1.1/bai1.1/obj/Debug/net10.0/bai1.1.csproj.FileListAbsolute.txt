@@ -1,0 +1,16 @@
+D:\Learning\C#\tuan2\bai1.1\bai1.1\bin\Debug\net10.0\bai1.1.exe
+D:\Learning\C#\tuan2\bai1.1\bai1.1\bin\Debug\net10.0\bai1.1.deps.json
+D:\Learning\C#\tuan2\bai1.1\bai1.1\bin\Debug\net10.0\bai1.1.runtimeconfig.json
+D:\Learning\C#\tuan2\bai1.1\bai1.1\bin\Debug\net10.0\bai1.1.dll
+D:\Learning\C#\tuan2\bai1.1\bai1.1\bin\Debug\net10.0\bai1.1.pdb
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.AssemblyInfoInputs.cache
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.AssemblyInfo.cs
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.csproj.CoreCompileInputs.cache
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.sourcelink.json
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.dll
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\refint\bai1.1.dll
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.pdb
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.genruntimeconfig.cache
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\ref\bai1.1.dll
+D:\Learning\C#\tuan2\bai1.1\bai1.1\obj\Debug\net10.0\bai1.1.csproj.Up2Date
